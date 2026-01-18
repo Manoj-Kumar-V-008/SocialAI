@@ -8,20 +8,24 @@
 ## 🚀 Key Features
 
 ### 1. Cinematic "Real-to-AI" Entry
+
 - A high-performance `<canvas>` animation engine that renders 150+ frames at 30fps.
 - Seamless transition from "Real World" footage to a digital "Cyberpunk" interface.
 
 ### 2. The "Hybrid" Dashboard
+
 - **Stories Rail:** Snapchat-style horizontal scrolling.
 - **Infinite Feed:** Facebook-style interaction (Like, Comment, Share).
 - **Navigation:** YouTube-style sidebar and mobile-responsive bottom nav.
 
 ### 3. Simulated Backend Services
+
 - **Auth System:** Fully functional Login/Signup using `localStorage` persistence.
 - **Fake Payment Gateway:** Simulates credit card and crypto processing with realistic latency and "Success/Failure" states.
 - **Notification Center:** Real-time toast notifications and history tracking.
 
 ### 4. AI Studio Integration
+
 - Built-in interface for users to generate AI art (simulated flow).
 - "Cyberpunk" UI theme optimized for dark mode and high contrast.
 
@@ -39,3 +43,4 @@
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/Manoj-Kumar-V-008/SocialAI.git](https://github.com/Manoj-Kumar-V-008/SocialAI.git)
+   ```
