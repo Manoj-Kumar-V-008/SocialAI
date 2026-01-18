@@ -1,16 +1,41 @@
-# React + Vite
+# SocialAI: The Future of Connection
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SocialAI** is a futuristic, AI-augmented social media MVP designed to bridge the gap between traditional networking and artificial intelligence. Built with a "Cyberpunk" aesthetic, it simulates a production-grade environment with integrated AI tools, financial systems, and gamified social interactions.
 
-Currently, two official plugins are available:
+![Project Status](https://img.shields.io/badge/Status-MVP%20Complete-success)
+![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Vite%20%7C%20Tailwind-cyan)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Key Features
 
-## React Compiler
+### 1. Cinematic "Real-to-AI" Entry
+- A high-performance `<canvas>` animation engine that renders 150+ frames at 30fps.
+- Seamless transition from "Real World" footage to a digital "Cyberpunk" interface.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 2. The "Hybrid" Dashboard
+- **Stories Rail:** Snapchat-style horizontal scrolling.
+- **Infinite Feed:** Facebook-style interaction (Like, Comment, Share).
+- **Navigation:** YouTube-style sidebar and mobile-responsive bottom nav.
 
-## Expanding the ESLint configuration
+### 3. Simulated Backend Services
+- **Auth System:** Fully functional Login/Signup using `localStorage` persistence.
+- **Fake Payment Gateway:** Simulates credit card and crypto processing with realistic latency and "Success/Failure" states.
+- **Notification Center:** Real-time toast notifications and history tracking.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 4. AI Studio Integration
+- Built-in interface for users to generate AI art (simulated flow).
+- "Cyberpunk" UI theme optimized for dark mode and high contrast.
+
+## 🛠️ Technology Stack
+
+- **Frontend:** React 18.3.1
+- **Build Tool:** Vite 5.4.2
+- **Styling:** Tailwind CSS 3.4.16
+- **Routing:** React Router DOM 6.28.0
+- **Icons:** Lucide React
+- **State Management:** React Context API
+
+## ⚡ Quick Start
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/Manoj-Kumar-V-008/SocialAI.git](https://github.com/Manoj-Kumar-V-008/SocialAI.git)
